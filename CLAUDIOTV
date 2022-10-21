@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 =-grop-title="CHINOTV",RECORD
+http://dns.ahbd.xyz/live/89claudio/93409539/39462.m3u8
+#EXTINF:-1 =-grop-title="CHINOTV",PREMIERI
+http://dns.ahbd.xyz/live/89claudio/93409539/38967.m3u8
