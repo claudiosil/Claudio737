@@ -1,0 +1,5 @@
+=====[canais]=====
+#EXTINF:0,registro
+http://dns.ahbd.xyz/live/89claudio/93409539/39462.m3u8
+#EXTINF:0,estreia
+http://dns.ahbd.xyz/live/89claudio/93409539/38967.m3u8
