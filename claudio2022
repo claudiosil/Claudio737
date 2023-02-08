@@ -7,3 +7,5 @@ http://dns.ahbd.xyz/live/89claudio/93409539/38967.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_6b50f64e-b751-4bc8-9329-5a53a5d374d9.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",tv cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2064134322.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere clube
+http://195.181.163.31/live/8917claudio/84172199/243985.m3u8?token=eEZEbHRFZDI4TVZ3ZXY5
