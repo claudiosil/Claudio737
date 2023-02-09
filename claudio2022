@@ -5,7 +5,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_6b50f64e-
 #EXTINF:-1 =-group-title="CHINOTV",tv cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2064134322.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",premiere clube
-https://cdnrede.com/live/8917claudio/84172199/243982.m3u8
+http://cdnrede.com/live/8917claudio/84172199/214660.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",sportv
 https://cdnrede.com/live/8917claudio/84172199/5012.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",sportv2
@@ -15,7 +15,7 @@ https://cdnrede.com/live/8917claudio/84172199/5013.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",band sports
 http://cdnrede.com/live/8917claudio/84172199/5037.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",espn
-http://cdnrede.com/live/8917claudio/84172199/5033.m3u8
+http://cdnrede.com/live/8917claudio/84172199/21143.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",espn2
 http://cdnrede.com/live/8917claudio/84172199/5030.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",espn3
@@ -29,9 +29,47 @@ http://cdnrede.com/live/8917claudio/84172199/5020.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",fish tv
 http://cdnrede.com/live/8917claudio/84172199/5261.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",caze tv
-http://cdnrede.com/live/8917claudio/84172199/5019.m3u8
+https://cdnrede.com/live/8917claudio/84172199/248508.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",combate
 http://cdnrede.com/live/8917claudio/84172199/21255.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",record tv
+http://cdnrede.com/live/8917claudio/84172199/4962.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",sbt
+#EXTINF:-1 =-group-title="CHINOTV",rede amazonica
+http://cdnrede.com/live/8917claudio/84172199/172644.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",rede tv
+http://cdnrede.com/live/8917claudio/84172199/21087.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",band
+http://cdnrede.com/live/8917claudio/84172199/231143.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",animal planet
+http://cdnrede.com/live/8917claudio/84172199/21124.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",discovery channel
+https://cdnrede.com/live/8917claudio/84172199/5001.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",history channel
+http://cdnrede.com/live/8917claudio/84172199/21124.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",ID investigation discovery
+http://cdnrede.com/live/8917claudio/84172199/4959.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",Arte tv
+https://cdnrede.com/live/8917claudio/84172199/5273.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",Viva
+https://cdnrede.com/live/8917claudio/84172199/243982.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",Aparecida
+http://cdnrede.com/live/8917claudio/84172199/64417.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 2
+https://cdnrede.com/live/8917claudio/84172199/21251.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 3
+https://cdnrede.com/live/8917claudio/84172199/21249.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 4
+https://cdnrede.com/live/8917claudio/84172199/21247.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 5
+https://cdnrede.com/live/8917claudio/84172199/5197.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 6
+https://cdnrede.com/live/8917claudio/84172199/5195.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 7
+https://cdnrede.com/live/8917claudio/84172199/5193.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",premiere 8
+http://cdnrede.com/live/8917claudio/84172199/5198.m3u8
+
 
 
 
