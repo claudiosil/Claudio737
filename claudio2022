@@ -1,11 +1,16 @@
 #EXTM3U
-http://dns.ahbd.xyz/live/89claudio/93409539/38967.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",cnn brasil
+http://cdnrede.com/live/8917claudio/84172199/166980.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",record news
+http://cdnrede.com/live/8917claudio/84172199/5182.m3u8
+#EXTINF:-1 =-group-title="CHINOTV",band news
+http://cdnrede.com/live/8917claudio/84172199/5186.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_6b50f64e-b751-4bc8-9329-5a53a5d374d9.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",tv cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2064134322.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",premiere clube
-http://cdnrede.com/live/8917claudio/84172199/214660.m3u8
+http://cdnrede.com/live/8917claudio/84172199/243985.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",sportv
 https://cdnrede.com/live/8917claudio/84172199/5012.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",sportv2
@@ -48,7 +53,7 @@ https://cdnrede.com/live/8917claudio/84172199/5001.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",history channel
 http://cdnrede.com/live/8917claudio/84172199/21124.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",ID investigation discovery
-http://cdnrede.com/live/8917claudio/84172199/4959.m3u8
+http://cdnrede.com/live/8917claudio/84172199/4983.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",Arte tv
 https://cdnrede.com/live/8917claudio/84172199/5273.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",Viva
