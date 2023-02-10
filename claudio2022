@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 =-group-title="CHINOTV",CNN BRASIL
+http://cdnrede.com/live/8917claudio/84172199/167915.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",record news
 http://cdnrede.com/live/8917claudio/84172199/5182.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",band news
@@ -47,13 +49,13 @@ http://cdnrede.com/live/8917claudio/84172199/21124.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",discovery channel
 https://cdnrede.com/live/8917claudio/84172199/5001.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",history channel
-http://cdnrede.com/live/8917claudio/84172199/21124.m3u8
+http://cdnrede.com/live/8917claudio/84172199/21111.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",ID investigation discovery
 http://cdnrede.com/live/8917claudio/84172199/4983.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",Arte tv
 https://cdnrede.com/live/8917claudio/84172199/5273.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",Viva
-https://cdnrede.com/live/8917claudio/84172199/243982.m3u8
+http://cdnrede.com/live/8917claudio/84172199/21273.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",Aparecida
 http://cdnrede.com/live/8917claudio/84172199/64417.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",premiere 2
