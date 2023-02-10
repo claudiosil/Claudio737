@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 =-group-title="CHINOTV",cnn brasil
-http://cdnrede.com/live/8917claudio/84172199/166980.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",record news
 http://cdnrede.com/live/8917claudio/84172199/5182.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",band news
@@ -31,8 +29,6 @@ http://cdnrede.com/live/8917claudio/84172199/5022.m3u8
 http://cdnrede.com/live/8917claudio/84172199/5031.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",fox sports 2
 http://cdnrede.com/live/8917claudio/84172199/5020.m3u8
-#EXTINF:-1 =-group-title="CHINOTV",fish tv
-http://cdnrede.com/live/8917claudio/84172199/5261.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",caze tv
 https://cdnrede.com/live/8917claudio/84172199/248508.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",combate
