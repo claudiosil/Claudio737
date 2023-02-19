@@ -75,4 +75,6 @@ http://cdnrede.com/live/8917claudio/84172199/5198.m3u8
 #EXTINF:-1 =-group-title="CHINOTV",mae 1p
 https://srv4.g1novelas.top/NOV/MAE/MAEzJ8ZbkUekz24eeeVxdBUi001.mp4
 #EXTINF:-1 =-group-title="CHINOTV",mae 2p
+http://cdnrede.com:80/movie/8917claudio/84172199/67372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX30" tvg-logo="https://i.imgur.com/U1SkAH2.png" group-title="XXX: ADULTO",XXX30
 https://srv4.g1novelas.top/NOV/MAE/MAEzJ8ZbkUekz24eeeVxdBUi001.mp4
